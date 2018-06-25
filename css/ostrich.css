@@ -12,7 +12,7 @@ html {
 @media only screen and (max-width: 1290px) {
 
 #ostrich {
-  display: inline-block;
+  display: block;
   bottom: 200px;
 }
 
